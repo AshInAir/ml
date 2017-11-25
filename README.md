@@ -1,2 +1,2 @@
 # ml
-machine learning exercise ---coursera
+machine learning exercise in coursera
